@@ -89,7 +89,7 @@ Technologies Used
 
 Future Possible Functionalities
 -------------------------------
-<br>
+
 1. Add a sign up/authentication page
 2. Improve upon the Adapt functionality in the web app
 3. Add an additional feature of breakout rooms      
