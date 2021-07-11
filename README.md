@@ -20,7 +20,7 @@ The solution should be a fully functional prototype with at least one mandatory 
 
 <br>
 What I Accomplished
---------------------------------
+-------------------
 <br>
 I successfully implemented the video calling feature. More than two people can currently video call together using the web app. I also implemented:
 
@@ -75,7 +75,7 @@ The server should be running at localhost:3000<br><br>
 -To access the web app, in your project code folder, navigate to public/landing-page and from there open landing.html on any browser of your preference (Chrome recommended for best experience).<br><br>
 
 Technologies Used 
-------------
+-----------------
 <br>
 
 1. Node.js
@@ -88,7 +88,7 @@ Technologies Used
 
 <br>
 Future Possible Functionalities
-------------
+-------------------------------
 <br>
 1. Add a sign up/authentication page
 2. Improve upon the Adapt functionality in the web app
