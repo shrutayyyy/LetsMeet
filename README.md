@@ -19,7 +19,7 @@ Build a Microsoft Teams clone.
 The solution should be a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using the product to have a video conversation.
 
 <br>
-##What I Accomplished
+## What I Accomplished
 -------------------
 <br>
 I successfully implemented the video calling feature. More than two people can currently video call together using the web app. I also implemented:
@@ -87,7 +87,7 @@ Technologies Used
 7. Socket.io
 
 <br>
-##Future Possible Functionalities
+## Future Possible Functionalities
 -------------------------------
 <br>
 1. Add a sign up/authentication page
