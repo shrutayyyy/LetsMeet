@@ -26,4 +26,19 @@ To run the web app in your local device, run the following commands in your term
 ```bash
 cd folder-you-want-to-download-code-in
 
+git clone https://github.com/shrutayyyy/LetsMeet.git
+
+cd LetsMeet
 ```
+-Now that you're in the project folder, open terminal to download the needed node modules:
+```bash
+npm install
+```
+-Now run the server by running the following command:
+```bash
+npm start
+```
+-To access the web app, in your project code folder, navigate to public/landing-page and from there open landing.html on any browser of your preference (Chrome recommended for best experience).
+
+
+
