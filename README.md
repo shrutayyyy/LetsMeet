@@ -71,7 +71,16 @@ npm install
 ```bash
 npm start
 ```
-The server should be running at localhost:3000<br><br>
+The server should be running at <strong>localhost:3000</strong><br>
+If localhost:3000 shows busy on your device, run the following commands:
+```bash
+sudo lsof -i :3000
+
+kill -9 <PID>
+```
+Now localhost:3000 is free to run this application.
+<br>
+<br>
 -To access the web app, in your project code folder, navigate to public/landing-page and from there open landing.html on any browser of your preference (Chrome recommended for best experience).<br><br>
 
 Technologies Used 
