@@ -13,15 +13,15 @@ In this age of social distancing, Let's Meet.
 
 The Challenge
 ------------
--------
+<br>
 Build a Microsoft Teams clone.
 
 The solution should be a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using the product to have a video conversation.
 
-<br>
+
 What I Accomplished
---------------------------------
-----------------
+-------------------
+<br>
 I successfully implemented the video calling feature. More than two people can currently video call together using the web app. I also implemented:
 
 1. Switch audio on/off
@@ -38,7 +38,7 @@ I successfully implemented the video calling feature. More than two people can c
 
 What I Learned
 --------------------------------
---------------------------------
+<br>
 Microsoft and the Acehacker team kept various sessions for us to learn more about the work culture at Microsoft. We also learned about new technologies that have been developed by Microsoft (ie Azure Communication Services) and about the Agile Methodology. 
 
 The <strong>Agile Scrum Methodology</strong> has heavily influenced my work in the past 1 month. 
@@ -52,7 +52,7 @@ In the <strong>last week</strong>, I ended up adding the chat feature and worked
 
 Running the Web App on your Local Device
 --------------------------------
---------------------------------
+<br>
 To run the web app in your local device, run the following commands in your terminal (macOS) or command prompt (Windows) :-
 
 -Clone the GitHub repository into your local device by running the following command:
@@ -75,8 +75,7 @@ The server should be running at localhost:3000<br><br>
 -To access the web app, in your project code folder, navigate to public/landing-page and from there open landing.html on any browser of your preference (Chrome recommended for best experience).<br><br>
 
 Technologies Used 
-------------
--------
+-----------------
 <br>
 
 1. Node.js
@@ -87,15 +86,16 @@ Technologies Used
 6. WebRTC
 7. Socket.io
 
-<br>
+
 Future Possible Functionalities
-------------
--------
+-------------------------------
+
 1. Add a sign up/authentication page
 2. Improve upon the Adapt functionality in the web app
 3. Add an additional feature of breakout rooms      
 4. Increase Scalability 
 <br>
+
 
 
 
