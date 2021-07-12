@@ -22,6 +22,9 @@ The solution should be a fully functional prototype with at least one mandatory 
 What I Accomplished
 -------------------
 <br>
+
+![Lets-Meet](public/landing-page/assets/img/logo.png)
+
 I successfully implemented the video calling feature. More than two people can currently video call together using the web app. I also implemented:
 
 1. Switch audio on/off
@@ -103,7 +106,24 @@ Future Possible Functionalities
 2. Improve upon the Adapt functionality in the web app
 3. Add an additional feature of breakout rooms      
 4. Increase Scalability 
+
+
+Screenshots
+-----------------
 <br>
+
+![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-1.jpg)
+<br>
+
+![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-5.jpg)
+<br>
+
+![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-8.jpg)
+<br>
+
+![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-9.jpg)
+
+
 
 
 
