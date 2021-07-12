@@ -21,7 +21,6 @@ The solution should be a fully functional prototype with at least one mandatory 
 
 What I Accomplished
 -------------------
-<br>
 
 ![Lets-Meet](public/landing-page/assets/img/logo.png)
 
