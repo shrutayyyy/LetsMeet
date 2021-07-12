@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>This is my entry for  <a href="https://microsoft.acehacker.com/engage2021/index.html">Microsoft Engage'21. </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
+<h2> source + credits: https://github.com/i-aryan/quickmeet </h2>
 <br>All the supporting technical documentation and the demo video are available in the documentation folder of this repo.<br><br>
 
 In this age of social distancing, Let's Meet. 
@@ -19,12 +19,12 @@ Build a Microsoft Teams clone.
 The solution should be a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using the product to have a video conversation.
 
 
-What I Accomplished
+What <s>I Accomplished</s>
 -------------------
 
 ![Lets-Meet](public/landing-page/assets/img/logo.png)
 
-I successfully implemented the video calling feature. More than two people can currently video call together using the web app. I also implemented:
+[Aryan](https://github.com/i-aryan) successfully implemented the video calling feature. More than two people can currently video call together using the web app. [Aryan](https://github.com/i-aryan) also implemented:
 
 1. Switch audio on/off
 2. Switch video on/off
