@@ -7,7 +7,7 @@
 
 In this age of social distancing, Let's Meet. 
 ==============
-#### A Microsoft Teams Clone built for Microsoft Engage 2021 ####
+#### A Microsoft Teams Clone built for Microsoft Engage 2021. ####
 
 <br>
 
@@ -121,6 +121,17 @@ Screenshots
 <br>
 
 ![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-9.jpg)
+<br><br>
+
+Check out the following links!
+-----------------
+<br>
+
+Technical Documentation: [lets-meet.pdf](documentation/lets-meet.pdf)
+<br><br>
+Web App Flow: [web-app-flow.png](documentation/web-app-flow.png)
+<br><br>
+Demo Video: [Let's Meet!](https://youtu.be/Y7xJqFvXm6A)
 
 
 
